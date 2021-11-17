@@ -1,0 +1,23 @@
+-------------------------------------------- Ciclo 'for'--------------------------------------------------
+	for (let i = 0; i < 10; i++){
+		console.log("i");
+	}
+
+ Se inicializa una variable i en 0. Mientras i sea menos a 10, se imprimirá el valor de i en cada 	iteración. El valor de i aumenta en uno cada vez que una iteración termina.
+
+------------------------------------------- Operador '&&' ------------------------------------------------
+	Es el operador de la conjunción, el "Y" en español. Devuelve true sólo si las dos expresiones son true, sino devuelve false.
+ *Ejemplo: (20 > 3 && a !== b ) devolverá true.
+	   (20 > 3 && a === b ) devolverá false.
+	   (20 < 3 && a === b ) devolverá false.
+
+------------------------------------------ Operador '||' --------------------------------------------------
+	Es ek operador de la disyunción, el "O" en español. Devuelve true si al menos una de las expresiones es true, sino devuelve false. 
+ *Ejemplo: (1 === 1 || a === a ) devolverá true.
+	   (1 === 1 || a === b ) devolverá true.
+	   (1 === 2 || a === b ) devolverá false.
+
+------------------------------------------ Operador '!' ----------------------------------------------------
+	Es el operador de la negación, el "No" en español. Devuelve el valor de verdad opuesto al que tiene la expresión que se le pasa.
+ *Ejemplo: (! (1 < 2)) devolverá false.
+	   (! (a === b) devolverá true.
