@@ -1,0 +1,3 @@
+------------------------------------------------- Array -------------------------------------------------
+ Un array es un espacio en el que podemos almacenar un conjunto de datos de diferentes tipos o del mismo tipo. 
+ *Ejemplo: var frutas = ['Pera´, 'Naranja','Limón', 'Maracuyá', '20', null];
